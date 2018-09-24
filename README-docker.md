@@ -1,3 +1,4 @@
+INIT ICO-FOUNDER CORE
 # Docker Container
 
 This repository comes with built-in Dockerfile to support docker
